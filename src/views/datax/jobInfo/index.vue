@@ -434,7 +434,7 @@ export default {
       },
       executorList: '',
       jobIdList: '',
-      jobProjectList: [],
+      jobProjectList: '',
       dataSourceList: '',
       blockStrategies: [
         { value: 'SERIAL_EXECUTION', label: '单机串行' },
